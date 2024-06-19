@@ -2,5 +2,5 @@
   "url": "https://github.com/U4345/autoshot-main/raw/main/file",
   "latest": "3.2",
   "changes": "Интерфейс",
-  "notification": "Временно не работает задержка в автошоте (delay)"
+  "notification": "1) Временно не работает задержка в автошоте (delay)\n \n2) Иногда крашит менюшку\nЗавтра мб фиксану\n"
 }
