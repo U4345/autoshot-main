@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/U4345/autoshot-main/raw/main/file",
-  "latest": "3.2",
-  "changes": "Интерфейс",
-  "notification": "1) Временно не работает задержка в автошоте (delay)\n \n2) Иногда крашит менюшку\n \nЗавтра мб фиксану\n "
+  "latest": "3.3",
+  "changes": "Фикс интерфейса",
+  "notification": "Временно не работает задержка в автошоте (delay)\n "
 }
