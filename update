@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/U4345/autoshot-main/raw/main/file",
   "latest": "3.4",
-  "changes": "  Проверка\n  123",
-  "notification": "  Проверка\n  123"
+  "changes": "  1) Уведомления\n  2) Фикс задержки\n",
+  "notification": ""
 }
